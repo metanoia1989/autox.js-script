@@ -1,0 +1,10 @@
+{
+    "name": "抖音粉丝清除脚本",
+    "main": "douyin-fans.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "douyin-fans-clear-com.liushenhai.wwww",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
