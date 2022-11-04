@@ -1,0 +1,10 @@
+{
+    "name": "微信公众号读取",
+    "main": "wecaht.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "wechat-article-read.com.52laoge.wwww",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}

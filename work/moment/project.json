@@ -1,0 +1,10 @@
+{
+    "name": "微信朋友圈读取",
+    "main": "moment.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "moment-article-read.com.52laoge.wwww",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
